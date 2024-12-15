@@ -2,6 +2,7 @@
 Repositorio de GitHub donde podrán encontrar las presentaciones y a su vez las soluciones a los ejercicios de programación
 
 ## Esquema
+- [Horarios](#Horarios)
 - [Grabaciones](#grabaciones)
 - [Examen](#examen)
   - [Teoría](#teoría-16-puntos)
