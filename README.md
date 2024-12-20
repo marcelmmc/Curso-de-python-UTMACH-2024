@@ -59,7 +59,9 @@ https://drive.google.com/drive/folders/1HJ4d2TfH3mJ9dDHaB2oUvB-bzq4F5CRn?usp=sha
     - Crear un diario (10 puntos)
 - Conceptos OOP: (14 puntos)
 
-# Grupos (En progreso)
+# Grupos 
+
+https://docs.google.com/spreadsheets/d/1hA1iXdiRGzx5s9CdkBxnf-l1bY8f5B0y2brPh_zTxf4/edit?usp=sharing
 
 # Proyecto
 - Grupos de 3 personas, excepcionalmente grupos de 4 personas
